@@ -9,20 +9,14 @@ experiments. A self-certified 1x engineer, with a playground to match.
 
 ### What happens here
 
-- Taking a methodology (BDD, Spec-Driven Development, Clean Architecture) and actually
-  walking it end to end, instead of just nodding along at a meetup
-- Building small tools for annoyances at work and at home, then over-engineering them
+- Small tools for annoyances at work and at home, usually over-engineered
+- Things I wanted to try but couldn't find an excuse for at work
 - Letting an AI write the code, then finding out what it got wrong
 
 The common thread: **write the spec first, then let the AI join in.** Once the spec is
 clear enough, the blame has somewhere to go.
 
-### House rules
-
-- Static if it can be static; if the free tier fits, no server
-- Anything I'd rather not take on faith becomes a pure function with tests
-- If I can't see what it's doing, it doesn't count as working
-- Everything here is experimental. Borrow freely, open issues, argue in the comments.
+Everything here is experimental. Borrow freely, open issues, argue in the comments.
 
 ---
 
@@ -33,19 +27,13 @@ clear enough, the blame has somewhere to go.
 
 ### 這裡在做什麼
 
-- 把方法論（BDD、Spec-Driven Development、Clean Architecture）真的從頭走到尾，
-  而不是只在 meetup 上點頭
-- 替工作和生活中的小麻煩做工具，然後順便過度設計
+- 替工作和生活中的小麻煩做工具，通常順便過度設計
+- 想玩但在工作上找不到藉口碰的東西
 - 讓 AI 寫 Code，再看看它哪裡寫錯
 
 共通點是：**先把規格寫清楚，再讓 AI 一起動手。** 規格夠清楚，鍋才有地方甩。
 
-### 遊樂場規則
-
-- 能靜態就靜態，free tier 塞得下就不自己養機器
-- 凡是只能靠相信的東西，就寫成純函式加測試
-- 看不到它在幹嘛，就不算會動
-- 這裡的東西都是實驗性質，歡迎參考、開 issue、留言討論
+這裡的東西都是實驗性質，歡迎參考、開 issue、留言討論。
 
 **正體中文** · [English ↑](#user-content-welcome-to-the-playground-)
 
